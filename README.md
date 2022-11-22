@@ -9,14 +9,14 @@ Modemimizin LAN portundan alacağımız çıkışı routerın WAN portuna, route
 Tarayıcınızdaki açık sekmede "İnternete erişebilmek için önce bu ağa giriş yapmalısınız." uyarısıyla karşılaşabilirsiniz.  
 Uyarıyla karşılaşırsanız yanındaki butona tıklayabilir ya da kendiniz [router.miwifi.com](https://router.miwifi.com/) veya [192.168.31.1](https://192.168.31.1/) adresine gidebilirsiniz.  
 
-### MiWifi Kurulumu
-> MiWifi kurulum sekmesine ulaştığınızda sağ üstten dilinizi seçerek başlayın.  
-> Alt kısımdan ülke seçimini de yaptıktan sonra tikleri işaretleyip ilerleyin.  
-> Router kablolu bağlantıyı tespit edip otomatik olarak DHCP modunu seçecektir ilerleyin.  
-> Mod seçiminde bir hata olursa kendiniz maneul olarak DHCP seçebilirsiniz.  
-> Wi-Fi Ayarları sekmesini kurulumu bitirebilmek için basitçe doldurun. (Şifrenizi unutmayın.)  
-> Kurulum tamamlandığında cihaz yeniden başlayacaktır, ışıklar maviye döndüğünde sayfayı yenileyin.  
-> Router giriş sayfası sizi karşılayacaktır, bu arayüzdeki işimizi tamamlamış bulunuyoruz.  
+### 🪄 MiWifi Kurulumu
+> - MiWifi kurulum sekmesine ulaştığınızda sağ üstten dilinizi seçerek başlayın.  
+> - Alt kısımdan ülke seçimini de yaptıktan sonra tikleri işaretleyip ilerleyin.  
+> - Router kablolu bağlantıyı tespit edip otomatik olarak DHCP modunu seçecektir ilerleyin.  
+> - Mod seçiminde bir hata olursa kendiniz maneul olarak DHCP seçebilirsiniz.  
+> - Wi-Fi Ayarları sekmesini kurulumu bitirebilmek için basitçe doldurun. (Şifrenizi unutmayın.)  
+> - Kurulum tamamlandığında cihaz yeniden başlayacaktır, ışıklar maviye döndüğünde sayfayı yenileyin.  
+> - Router giriş sayfası sizi karşılayacaktır, bu arayüzdeki işimizi tamamlamış bulunuyoruz.  
 
 # 🚀 OpenWRT Kurulumu
 Paylaştığımız linkten indirdiğiniz OpenWRTKurulum klasörünü açın, firmwares klasörü altında OpenWRT'nin en güncel sürümü bulunmalıdır.  
