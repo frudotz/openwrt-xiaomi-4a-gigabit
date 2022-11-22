@@ -3,6 +3,31 @@ Bu rehberimiz ile Windows üzerinden Xiaomi Mi Router 4A Gigabit Edition model r
 Paylaştığımız yöntem yalnızca MediaTek MT7621 SoC tabanlı, Mi 4A Gigabit modeli için geçerlidir, diğer modellerde denemek cihazı atıl duruma getirebilir.
 *Bu işlemlerde karşılaşabileceğiniz tüm komplikasyonlar sizin sorumluluğunuzdadır. Konuyla ilgili hiçbir sorumluluk kabul etmiyorum...*  
 
+<details>
+  <summary>İçindekiler</summary>
+  <ol>
+    <li>
+      <a href="#-başlarken">✨ Başlarken</a>
+      <ul>
+        <li><a href="#-miwifi-kurulumu">🪄 MiWifi Kurulumu</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#-openwrt-kurulumu">🚀 OpenWRT Kurulumu</a>
+      <ul>
+        <li><a href="#1%EF%B8%8F⃣-i̇lk-aşama---0start_mainbat">1️⃣ İlk Aşama - 0.start_main.bat</a></li>
+        <li><a href="#2%EF%B8%8F⃣-son-aşama---5start_write_osbat">2️⃣ Son Aşama - 5.start_write_OS.bat</a></li>
+      </ul>
+    </li>
+    <li><a href="#-merhaba-openwrt">😎 Merhaba OpenWRT!</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 # ✨ Başlarken
 Cihazınıza OpenWRT kurmadan önce önyüklü gelen yazılımla ilk kurulumunu gerçekleştirmeniz gerekiyor.  
 Modemin LAN portundan routerın WAN portuna ve routerın LAN portundan bilgisayarın ethernet portuna kablo takın.  
