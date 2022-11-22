@@ -20,11 +20,11 @@ Paylaştığımız yöntem yalnızca MediaTek MT7621 SoC tabanlı, Mi 4A Gigabit
       </ul>
     </li>
     <li><a href="#-merhaba-openwrt">😎 Merhaba OpenWRT!</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#4">4</a></li>
+    <li><a href="#5">5</a></li>
+    <li><a href="#6">6</a></li>
+    <li><a href="#7">7</a></li>
+    <li><a href="#8">8</a></li>
   </ol>
 </details>
 
