@@ -31,10 +31,10 @@ Gigabit Edition olmayan, diğer marka & model routerlarda bu yöntemi denemek ci
 </details>
 
 # ✨ Başlarken
-Cihazınıza OpenWRT kurmadan önce önyüklü gelen yazılımla ilk kurulumunu gerçekleştirmeniz gerekiyor.  
-Modemin LAN portundan routerın WAN portuna ve routerın LAN portundan bilgisayarın ethernet portuna kablo takın.  
+Cihazınıza OpenWRT kurmadan önce önyüklü gelen MiWifi'ın ilk kurulum aşamasını gerçekleştirmeniz gerekiyor.  
+Modemin LAN portundan routerın WAN portuna, routerın LAN portundan bilgisayarın ethernet portuna kablo takın.  
 Tarayıcınızdaki açık sekmede "İnternete erişebilmek için önce bu ağa giriş yapmalısınız." uyarısıyla karşılaşabilirsiniz.  
-Uyarıyla karşılaşırsanız yanındaki butona tıklayabilir ya da kendiniz [router.miwifi.com](http://router.miwifi.com/) - [192.168.31.1](http://192.168.31.1/) adreslerine gidebilirsiniz.  
+Karşılaşırsanız yanındaki butona tıklayın ya da kendiniz [router.miwifi.com](http://router.miwifi.com/)/[192.168.31.1](http://192.168.31.1/) adreslerine gidin.  
 
 - ### 🪄 MiWifi Kurulumu
 > - MiWifi kurulum sekmesine ulaştığınızda sağ üstten dilinizi seçerek başlayın.  
