@@ -65,6 +65,6 @@ Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_wri
 > - Router OpenWRT'den başlamak için birkaç kez yeniden başlar, bu kısımda cihaz asla güçten ayırılmamalıdır.  
 
 # 😎 Merhaba OpenWRT!
-Her şeyi doğru yaptıysanız birkaç dakika içinde cihazın tüm ışıkları maviye döner ve internete erişebilirsiniz.  
+Kurulumda bir hata yapmadıysanız birkaç dakika içinde cihazın tüm ışıkları maviye döner ve internete erişebilirsiniz.  
 Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek OpenWRT'ye merhaba diyebilirsiniz! \*alkış efekti\*  
 
