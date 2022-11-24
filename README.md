@@ -45,7 +45,7 @@ Karşılaşırsanız yanındaki butona tıklayın veya kendiniz [router.miwifi.c
 > - Kurulum tamamlandığında cihaz yeniden başlayacaktır, ışıklar maviye döndüğünde sayfayı yenileyin.  
 > - Router giriş sayfası sizi karşılayacaktır, bu aşamada buradaki işimizi tamamlamış bulunuyoruz.  
 
-<p align="left">
+<p align="center">
   <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1045334365560909844/1.png">
   <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1045335028495822919/2-8.png">
 </p>
