@@ -46,8 +46,8 @@ Karşılaşırsanız yanındaki butona tıklayın veya kendiniz [router.miwifi.c
 > - Router giriş sayfası sizi karşılayacaktır, bu aşamada buradaki işimizi tamamlamış bulunuyoruz.  
 
 # 🚀 OpenWRT Kurulumu
-Paylaştığımız linkten indirdiğiniz **OpenWRTKurulum** klasörünü açın, `firmwares` klasörü altında OpenWRT'nin en güncel sürümü bulunmalıdır.  
-Rehberi paylaştığımız tarih itibarıyla en güncel sürümü sizler için bıraktık, en güncel sürümü [buradaki linkten](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition#installation) kontrol edebilir ve indirebilirsiniz.  
+Paylaştığımız **OpenWRTKurulum** klasörünü açın, `firmwares` dizininde OpenWRT'nin güncel sürümü bulunmalıdır.  
+Rehberi yazdığımız tarihin güncel sürümünü sizler için bıraktık, güncel sürümü [buradan](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition#installation) kontrol edip indirebilirsiniz.  
 Güncel dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_write_OS.bat` dosyalarını sırayla çalıştırıyoruz.  
 
 - #### 1️⃣ İlk Aşama - 0.start_main.bat
