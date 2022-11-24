@@ -1,7 +1,7 @@
 # Xiaomi 4A Giga için Türkçe OpenWRT Kurulum Rehberi!
 Bu yöntem ile Windows üzerinde Mi Router 4A Gigabit Edition routerınıza çok kısa sürede OpenWRT kurabileceksiniz.  
 Kullanacağımız yöntem yalnızca MediaTek MT7621 tabanlı, Xiaomi Mi Router 4A Gigabit Edition modeli için geçerlidir. 
-Diğer modellerde denemek cihazı kullanılmaz hale getirebilir.
+Gigabit Edition olmayan veya diğer marka/model routerlarda bu yöntemi denemek cihazı kullanılmaz duruma getirebilir.
 *Bu işlemlerde her şey sizin sorumluluğunuzdadır, hiçbir sorumluluk kabul etmiyorum.*  
 
 <details>
