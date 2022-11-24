@@ -51,15 +51,15 @@ Rehberi yazdığımız tarihin güncel sürümünü sizler için bıraktık, gü
 Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_write_OS.bat` dosyasını sırayla açıyoruz.  
 
 - #### 1️⃣ İlk Aşama - 0.start_main.bat
-> - `Enter router password:` kısmı ile kurulum scripti sizden MiWifi kurulumunda belirlediğiniz admin şifresini isteyecektir.  
-> - Şifreyi girdikten sonra bir konfigürasyon güncellemesi ile routera telnet üzerinden erişim sağlayabilir hale geleceksiniz.  
-> - Scriptten `Done` yanıtını aldığınızda herhangi bir tuşa basarak komut istemi sekmesini kapatabilirsiniz.  
+> - `Enter router password:` kısmında script sizden ilk kurulumda belirlediğiniz şifreyi isteyecektir.  
+> - Şifreyi girdikten sonra script birkaç değişiklikle cihazın telnet erişimini açacaktır.  
+> - `Done` yanıtını aldığınızda herhangi bir tuşa basarak sekmeyi kapatabilirsiniz.  
 
 - #### 2️⃣ Son Aşama - 5.start_write_OS.bat
-> - Bu scripti çalıştırdığınızda karşınıza seçim alternatifiniz olmayan bir seçim ekranı gelecektir, **`1`**'i tuşlayıp devam ediniz.  
-> - Birkaç işlem akabinde router OpenWRT'den başlamak için birkaç kez yeniden başlar, bu aşamada cihaz asla güçten ayırılmamalıdır.  
+> - Bu scripti açtığınızda karşınıza alternatifiniz olmayan bir seçim ekranı gelir, **`1`**'i tuşlayıp devam ediniz.  
+> - Router OpenWRT'den başlamak için birkaç kez yeniden başlar, bu kısımda cihaz asla güçten ayırılmamalıdır.  
 
 # 😎 Merhaba OpenWRT!
-Her şeyi doğru yaptıysanız cihaz birkaç kez yeniden başladıktan sonra tüm ışıkları maviye döner ve internete erişebilirsiniz.  
+Her şeyi doğru yaptıysanız birkaç dakika içinde cihazın tüm ışıkları maviye döner ve internete erişebilirsiniz.  
 Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek OpenWRT'ye merhaba diyebilirsiniz! \*alkış efekti\*  
 
