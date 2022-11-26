@@ -46,8 +46,8 @@ Karşılaşırsanız yanındaki butona tıklayın veya kendiniz [router.miwifi.c
 > - Router giriş sayfası sizi karşılayacaktır, bu aşamada buradaki işimizi tamamlamış bulunuyoruz.  
 
 <p align="left">
-  <img width="auto" height="128" border-radius="32px" src="https://media.discordapp.net/attachments/796061773795033169/1045334365560909844/1.png">
-  <img width="auto" height="128" border-radius="32px" src="https://media.discordapp.net/attachments/796061773795033169/1045335028495822919/2-8.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1045334365560909844/1.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1045335028495822919/2-8.png">
 </p>
 
 # 🚀 OpenWRT Kurulumu - <a href="https://drive.google.com/file/d/1acXFVIfmKuVZ597Adt3ZUU4ljYsQA8aM/view?usp=sharing" target="_blank">İndir</a>
