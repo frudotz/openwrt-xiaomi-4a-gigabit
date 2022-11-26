@@ -15,18 +15,15 @@ Gigabit Edition olmayan, diğer marka & model routerlarda bu yöntemi denemek ci
       </ul>
     </li>
     <li>
-      <a href="#-openwrt-kurulumu">🚀 OpenWRT Kurulumu</a>
+      <a href="#-openwrt-kurulumu---i̇ndir">🚀 OpenWRT Kurulumu</a>
       <ul>
         <li><a href="#1%EF%B8%8F⃣-i̇lk-aşama---0start_mainbat">1️⃣ İlk Aşama - 0.start_main.bat</a></li>
         <li><a href="#2%EF%B8%8F⃣-son-aşama---5start_write_osbat">2️⃣ Son Aşama - 5.start_write_OS.bat</a></li>
       </ul>
     </li>
     <li><a href="#-merhaba-openwrt">😎 Merhaba OpenWRT!</a></li>
-    <li><a href="#4">4</a></li>
-    <li><a href="#5">5</a></li>
-    <li><a href="#6">6</a></li>
-    <li><a href="#7">7</a></li>
-    <li><a href="#8">8</a></li>
+    <li><a href="#-özel-teşekkürler">💖 Özel Teşekkürler</a></li>
+    <li><a href="#%EF%B8%8F-kaynaklar">🗃️ Kaynaklar</a></li>
   </ol>
 </details>
 
@@ -79,10 +76,10 @@ Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek O
   <img width="810" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171910540628048/13.png">
 </p>
 
-> *OpenWRT sizde de aydınlık tema ile açılırsa [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinzi yapınız.*  
+> *\*OpenWRT sizde de aydınlık tema ile açılırsa [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinizi yapınız.*  
 
 # 💖 Özel Teşekkürler
-Kaynak ve bilgi destekleri için sevgili [Cicibird](https://cicibird.net/)'e teşekkürler.
+Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [Cicibird](https://cicibird.net/)'e teşekkürler.
 
 # 🗃️ Kaynaklar
   - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)
