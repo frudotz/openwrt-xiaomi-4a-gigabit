@@ -65,8 +65,10 @@ Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_wri
 > - Router OpenWRT'den başlamak için birkaç kez yeniden başlar, bu kısımda cihaz asla güçten ayırılmamalıdır.  
 
 <p align="left">
-  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046170420619001977/9.png">
-  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046170434888020009/10-13.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046171865246339193/9.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046171880903684126/10.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046171891058098176/11.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046171905318719498/12.png">
 </p>
 
 # 😎 Merhaba OpenWRT!
@@ -74,5 +76,5 @@ Kurulumda bir hata yapmadıysanız birkaç dakika içinde cihazın tüm ışıkl
 Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek OpenWRT'ye merhaba diyebilirsiniz! \*alkış efekti\*  
 
 <p align="left">
-  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046170455364620350/14.png">
+  <img width="auto" height="128" src="https://media.discordapp.net/attachments/796061773795033169/1046171910540628048/13.png">
 </p>
