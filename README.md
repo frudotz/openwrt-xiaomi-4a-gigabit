@@ -84,3 +84,6 @@ Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [Cicibird]()'e te
 # 🗃️ Kaynaklar
   - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)
   - [Mi Router OpenWRT Ana Konusu - Donanım Haber Forum](https://forum.donanimhaber.com/xiaomi-mi-router-modelleri-ve-openwrt-firmware-ana-konu-openwrt-21-02-2-yayinlandi--135790478)
+-----------
+🎀 Rehberimizi okuduğunuz için teşekkür ederiz!  
+📝 İçerik detaylandırması konusunda çalışmamız sürüyor...  
