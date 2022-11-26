@@ -82,8 +82,9 @@ Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek O
 Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [Cicibird]()'e teşekkürler.
 
 # 🗃️ Kaynaklar
-  - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)
-  - [Mi Router OpenWRT Ana Konusu - Donanım Haber Forum](https://forum.donanimhaber.com/xiaomi-mi-router-modelleri-ve-openwrt-firmware-ana-konu-openwrt-21-02-2-yayinlandi--135790478)
+  - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)  
+  - [Mi Router OpenWRT Ana Konusu - Donanım Haber Forum](https://forum.donanimhaber.com/xiaomi-mi-router-modelleri-ve-openwrt-firmware-ana-konu-openwrt-21-02-2-yayinlandi--135790478)  
+  
 -----------
 🎀 Rehberimizi okuduğunuz için teşekkür ederiz!  
 📝 İçerik detaylandırması konusunda çalışmamız sürüyor...  
