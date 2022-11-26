@@ -76,5 +76,5 @@ Kurulumda bir hata yapmadıysanız birkaç dakika içinde cihazın tüm ışıkl
 Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek OpenWRT'ye merhaba diyebilirsiniz! \*alkış efekti\*  
 
 <p align="left">
-  <img width="auto" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171910540628048/13.png">
+  <img width="830" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171910540628048/13.png">
 </p>
