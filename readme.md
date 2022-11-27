@@ -79,7 +79,7 @@ Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek O
 > *\*OpenWRT sizde de aydınlık tema ile açılırsa [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinizi yapınız.*  
 
 # 💖 Özel Teşekkürler
-Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [Cicibird]()'e teşekkürler.
+Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [@selcukssn](https://github.com/selcukssn)'e teşekkürler.
 
 # 🗃️ Kaynaklar
   - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)  
