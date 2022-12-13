@@ -47,7 +47,7 @@ Karşılaşırsanız yanındaki butona tıklayın veya kendiniz [router.miwifi.c
   <img width="auto" height="130" src="https://media.discordapp.net/attachments/796061773795033169/1046152883617415258/2-8.png">
 </p>
 
-# 🚀 OpenWRT Kurulumu - <a href="https://drive.google.com/file/d/1acXFVIfmKuVZ597Adt3ZUU4ljYsQA8aM/view?usp=sharing" target="_blank">İndir</a>
+# 🚀 OpenWRT Kurulumu - <a href="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/releases/tag/OpenWRT-22.03.2" target="_blank">İndir</a>
 Paylaştığımız **OpenWRTKurulum** klasörünü açın, `firmwares` dizininde OpenWRT'nin güncel sürümü bulunmalıdır.  
 Rehberi yazdığımız tarihin güncel sürümünü sizler için bıraktık, güncel sürümü [buradan](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition#installation) kontrol edip indirebilirsiniz.  
 Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_write_OS.bat` dosyasını sırayla açıyoruz.  
@@ -84,6 +84,7 @@ Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [@selcukssn](http
 # 🗃️ Kaynaklar
   - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)  
   - [Mi Router OpenWRT Ana Konusu - Donanım Haber Forum](https://forum.donanimhaber.com/xiaomi-mi-router-modelleri-ve-openwrt-firmware-ana-konu-openwrt-21-02-2-yayinlandi--135790478)  
+  - [@acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)  
   
 -----------
 🎀 Rehberimizi okuduğunuz için teşekkür ederiz!  
