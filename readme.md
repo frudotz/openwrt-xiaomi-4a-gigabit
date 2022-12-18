@@ -76,7 +76,7 @@ Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek O
   <img width="810" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171910540628048/13.png">
 </p>
 
-> *\*OpenWRT sizde de aydınlık tema ile açılırsa [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinizi yapınız.*  
+> *\*OpenWRT paneline ilk girişinizde [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinizi kontrol edip yapınız.*  
 
 # 💖 Özel Teşekkürler
 Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [@selcukssn](https://github.com/selcukssn)'e teşekkürler.
