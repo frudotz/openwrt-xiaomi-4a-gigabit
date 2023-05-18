@@ -6,7 +6,8 @@ Gigabit Edition olmayan, diğer marka & model routerlarda bu yöntemi denemek ci
 *Konu ile ilgili hiçbir sorumluluk kabul etmiyoruz. Rehberimizi kaynak göstererek paylaşmanız önemle rica olunur.* 🙏
 
 <p align="left">
-  <a href="https://discord.gg/k6y5MBKCPW"><img src="https://img.shields.io/badge/Discord - Chat-blue?logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/k6y5MBKCPW"><img src="https://img.shields.io/badge/Discord-Yardım İçin-blue?logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/watch?v=OYliHXuUevg"><img src="https://img.shields.io/badge/Youtube-Kurulum Video Rehberi-blue?logo=youtube&logoColor=white"/></a>
 </p>
   
 <details>
@@ -83,7 +84,8 @@ Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek O
 > *\*OpenWRT paneline ilk girişinizde [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinizi kontrol edip yapınız.*  
 
 # 💖 Özel Teşekkürler
-Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [@selcukssn](https://github.com/selcukssn)'e teşekkürler.
+Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [@selcukssn](https://github.com/selcukssn)'e teşekkürler.  
+Video rehber için [Mustafa Yücel](https://www.youtube.com/@yucellmustafa)'e teşekkürler.  
 
 # 🗃️ Kaynaklar
   - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)  
