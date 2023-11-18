@@ -48,14 +48,15 @@ Karşılaşırsanız yanındaki butona tıklayın veya kendiniz [router.miwifi.c
 > - Router giriş sayfası sizi karşılayacaktır, bu aşamada buradaki işimizi tamamlamış bulunuyoruz.  
 
 <p align="left">
-  <img width="auto" height="130" src="https://media.discordapp.net/attachments/796061773795033169/1046154532570280016/1.png">
-  <img width="auto" height="130" src="https://media.discordapp.net/attachments/796061773795033169/1046152883617415258/2-8.png">
+  <img width="auto" height="130" src="https://raw.githubusercontent.com/frudotz/openwrt-xiaomi-4a-gigabit/main/images/1.png">
+  <img width="auto" height="130" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/2-8.png">
 </p>
 
 # 🚀 OpenWRT Kurulumu - <a href="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/releases/tag/OpenWRT-22.03.2" target="_blank">İndir</a>
 Paylaştığımız **OpenWRTKurulum** klasörünü açın, `firmwares` dizininde OpenWRT'nin güncel sürümü bulunmalıdır.  
 Rehberi yazdığımız tarihin güncel sürümünü sizler için bıraktık, güncel sürümü [buradan](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition#installation) kontrol edip indirebilirsiniz.  
 Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_write_OS.bat` dosyasını sırayla açıyoruz.  
+_**BAT dosyaları arasında **"5."** ile başlayan iki dosya yer almaktadır yanlış dosyayı çalıştırmamaya __dikkat ediniz.___
 
 - #### 1️⃣ İlk Aşama - 0.start_main.bat
 > - `Enter router password:` kısmında script sizden ilk kurulumda belirlediğiniz şifreyi isteyecektir.  
@@ -67,10 +68,10 @@ Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_wri
 > - Router OpenWRT'den başlamak için birkaç kez yeniden başlar, bu kısımda cihaz asla güçten ayırılmamalıdır.  
 
 <p align="left">
-  <img width="200" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171865246339193/9.png">
-  <img width="200" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171880903684126/10.png">
-  <img width="200" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171891058098176/11.png">
-  <img width="200" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171905318719498/12.png">
+  <img width="200" height="auto" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/9.png">
+  <img width="200" height="auto" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/10.png">
+  <img width="200" height="auto" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/11.png">
+  <img width="200" height="auto" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/12.png">
 </p>
 
 # 😎 Merhaba OpenWRT!
@@ -78,7 +79,7 @@ Kurulumda bir hata yapmadıysanız birkaç dakika içinde cihazın tüm ışıkl
 Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek OpenWRT'ye merhaba diyebilirsiniz! \*alkış efekti\*  
 
 <p align="left">
-  <img width="810" height="auto" src="https://media.discordapp.net/attachments/796061773795033169/1046171910540628048/13.png">
+  <img width="810" height="auto" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/13.png">
 </p>
 
 > *\*OpenWRT paneline ilk girişinizde [System> Software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg) altından tüm paket güncellemelerinizi kontrol edip yapınız.*  
