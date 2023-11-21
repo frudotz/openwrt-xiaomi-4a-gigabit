@@ -95,4 +95,4 @@ Video rehber için [Mustafa Yücel](https://www.youtube.com/@yucellmustafa)'e te
   
 -----------
 🎀 Rehberimizi okuduğunuz için teşekkür ederiz!  
-📝 İçerik detaylandırması konusunda çalışmamız sürüyor...  
+⭐ İçeriği faydalı bulduysanız desteklemek için **Star** verebilirsiniz.  
