@@ -52,7 +52,7 @@ Karşılaşırsanız yanındaki butona tıklayın veya kendiniz [router.miwifi.c
   <img width="auto" height="130" src="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/blob/main/images/2-8.png">
 </p>
 
-# 🚀 OpenWRT Kurulumu - <a href="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/releases/tag/OpenWRT-22.03.2" target="_blank">İndir</a>
+# 🚀 OpenWRT Kurulumu - <a href="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit/releases/tag/OpenWRT-23.05.0" target="_blank">İndir</a>
 Paylaştığımız **OpenWRTKurulum** klasörünü açın, `firmwares` dizininde OpenWRT'nin güncel sürümü bulunmalıdır.  
 Rehberi yazdığımız tarihin güncel sürümünü sizler için bıraktık, güncel sürümü [buradan](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition#installation) kontrol edip indirebilirsiniz.  
 Dosyayı yerleştirdikten sonra ana dizindeki `0.start_main.bat` ve `5.start_write_OS.bat` dosyasını sırayla açıyoruz.  
