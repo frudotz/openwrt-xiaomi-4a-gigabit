@@ -28,6 +28,7 @@ Gigabit Edition olmayan, diğer marka & model routerlarda bu yöntemi denemek ci
     </li>
     <li><a href="#-merhaba-openwrt">😎 Merhaba OpenWRT!</a></li>
     <li><a href="#-özel-teşekkürler">💖 Özel Teşekkürler</a></li>
+    <li><a href="#-katkıda-bulun--bağış">🤝 Katkıda Bulun / Bağış</a></li>
     <li><a href="#%EF%B8%8F-kaynaklar">🗃️ Kaynaklar</a></li>
   </ol>
 </details>
@@ -87,6 +88,10 @@ Tebrikler! Artık doğruca [192.168.1.1](http://192.168.1.1/) adresine giderek O
 # 💖 Özel Teşekkürler
 Kaynak ve bilgi birikimiyle sağladığı destek için sevgili [@selcukssn](https://github.com/selcukssn)'e teşekkürler.  
 Video rehber için [Mustafa Yücel](https://www.youtube.com/@yucellmustafa)'e teşekkürler.  
+
+# 🤝 Katkıda Bulun / Bağış
+  - Yanlış gördüğünüz veya eklemek istediğiniz şeyleri PR/Issue açarak iletebilirsiniz.  
+  - Rehberimizi faydalı bulduysanız [🍻 bir bira ısmarlayarak](https://coff.ee/frudotz) bana destek olabilirsiniz.
 
 # 🗃️ Kaynaklar
   - [OpenWRT Wiki](https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition)  
